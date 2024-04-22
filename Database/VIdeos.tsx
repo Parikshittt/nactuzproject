@@ -1,0 +1,38 @@
+export const VideosData = [
+  {
+    id: '1',
+    title: 'Integration Class XI',
+    name: 'Anand Kumar',
+    rating: '93%',
+    daysAgo: '10 Days Ago',
+    thumbnailUri: 'https://picsum.photos/3840/2160',
+    profilePictureUri: 'https://picsum.photos/200/200',
+  },
+  {
+    id: '2',
+    title: 'Organic Chemistry Part 1',
+    name: 'Rajat Dalal',
+    rating: '96%',
+    daysAgo: '12 Days Ago',
+    thumbnailUri: 'https://picsum.photos/1280/720',
+    profilePictureUri: 'https://picsum.photos/200/200',
+  },
+  {
+    id: '3',
+    title: 'Gravitation',
+    name: 'Ajey Nagar',
+    rating: '93%',
+    daysAgo: '10 Days Ago',
+    thumbnailUri: 'https://picsum.photos/1900/1080',
+    profilePictureUri: 'https://picsum.photos/200/200',
+  },
+  {
+    id: '4',
+    title: 'Permuation & Combination',
+    name: 'Tanmay Bhat',
+    rating: '93%',
+    daysAgo: '10 Days Ago',
+    thumbnailUri: 'https://picsum.photos/2000/2000',
+    profilePictureUri: 'https://picsum.photos/200/200',
+  },
+];
